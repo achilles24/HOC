@@ -1,3 +1,7 @@
+import React from 'react';
+import VideoListWithData from './VideoListWithData'; // Adjust the path as necessary
+import PhotoListWithData from './PhotoListWithData'; // Adjust the path as necessary
+
 const App = () => {
   return (
     <div className="App">
